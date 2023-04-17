@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8d66155-35d2-416f-b965-609073f0b286": {
+      "ProjectGuid": "f8d66155-35d2-416f-b965-609073f0b286",
+      "DisplayName": "buttonrpc-server",
+      "ColorIndex": 0
+    },
+    "c930fb26-6804-45d9-a3a7-489ce1fe10da": {
+      "ProjectGuid": "c930fb26-6804-45d9-a3a7-489ce1fe10da",
+      "DisplayName": "buttonrpc-client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

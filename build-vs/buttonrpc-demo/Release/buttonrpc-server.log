@@ -1,0 +1,12 @@
+﻿D:\Software\Microsoft\VS\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\Software\Microsoft\VS\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(buttonrpc-client.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main_server.cpp
+C:\Users\jcchen\Desktop\buttonrpc_cpp14\buttonrpc.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\jcchen\Desktop\buttonrpc_cpp14\Serializer.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\jcchen\Desktop\buttonrpc_cpp14\Serializer.hpp(181,1): warning C4267: “初始化”: 从“size_t”转换到“uint16_t”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 712 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+main_server.obj : warning LNK4099: 未找到 PDB“vc143.pdb”(使用“main_server.obj”或在“C:\Users\jcchen\Desktop\buttonrpc_cpp14\build-vs2015\bin\vc143.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  buttonrpc-server.vcxproj -> C:\Users\jcchen\Desktop\buttonrpc_cpp14\build-vs2015\bin\buttonrpc-server.exe
